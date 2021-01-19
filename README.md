@@ -1,3 +1,3 @@
-# Completed-Projects
+# Python - Mario
 
-Included are projects completed in my time as a Computer Science student at the Univeristy of Arkansas.  Included are projects written in C++, Java, Javascript (with some HTML), and Python.  These projects display just a portion of my capabilities as a programmer.  
+Included is a basic Mario game coded in Python and all of the necessary images and sound files to allow the game to run correctly. 
